@@ -1,9 +1,6 @@
 # Sonny May
 
 Software engineer with 9 years of experience in LTE/5G networks, customer escalations, and RMA workflows. Now building the tools I always wished my team had.
-
-I write code that solves problems I've actually lived with at 2am on a P1 bridge.
-
 ---
 
 ### What I'm building
