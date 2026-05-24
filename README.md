@@ -1,26 +1,32 @@
-# Sonny May
+# Hi, I'm Sonny 👋
 
-Software engineer with 9 years of experience in LTE/5G networks, customer escalations, and RMA workflows. Now building the tools I always wished my team had.
----
+Python developer in Madison, WI. I build backend tools with FastAPI and
+Postgres, with a side interest in personal-finance and small-game projects.
+**Open to remote roles.**
 
-### What I'm building
+### What I'm working on
 
-**[SupportOps Portal](https://supportops.vercel.app)** — Web app for ticketing, devices, customers, and RMA tracking. Built because every "enterprise" support platform I've used was slow, bloated, or built for managers instead of agents. → [repo](https://github.com/sonnymay/supportops)
-
-**[Dividend Tracker](https://dividend-tracker-pi-navy.vercel.app)** — Web app for tracking dividend portfolio yield, payout history, and breakdown. Answers the three questions every dividend investor actually has, on one screen. → [repo](https://github.com/sonnymay/dividend-tracker)
-
-**LuckyDay** — iOS app for daily readings rooted in the Chinese almanac. Shipped end-to-end including App Store submission, review response, and metadata positioning. Currently in App Store review.
-
----
+- 🧾 **[SupportOps](https://github.com/sonnymay/supportops)** — lightweight
+  ticketing + RMA workflow tool. FastAPI · React 19 · Supabase. Built from
+  9 years on the front line of tech support.
+  [Live demo](https://supportops.vercel.app)
+- 💸 **[Dividend Tracker](https://github.com/sonnymay/dividend-tracker)** —
+  dividend portfolio dashboard with forward-yield, payout history, and an
+  AI portfolio chat. FastAPI · yfinance · React.
+  [Live demo](https://dividend-tracker-pi-navy.vercel.app)
 
 ### Stack
 
-`Python` · `FastAPI` · `React` · `TypeScript` · `Next.js` · `Supabase` · `PostgreSQL` · `Vercel` · `Render`
+**Backend:** Python, FastAPI, Pydantic, Postgres, Supabase
+**Frontend:** React, TypeScript, Vite, Tailwind
+**Tooling:** Docker, GitHub Actions, Vercel, Render
+
+### Elsewhere
+
+- 🌐 Blog: [sonny-may.com](https://www.sonny-may.com/)
+- 🐦 Twitter/X: <!-- TODO: add handle if Sonny creates one -->
 
 ---
 
-### Open to remote software engineering roles
-
-Especially anything touching: developer tools, support tooling, internal platforms, or anywhere a real customer-empathy background is an asset rather than an afterthought.
-
-Reach me: [thesan_555@hotmail.com](mailto:thesan_555@hotmail.com) · [GitHub](https://github.com/sonnymay)
+<sub>I'm currently looking for **remote backend / full-stack Python roles**.
+If you're hiring or know a team that is, open an issue on this repo.</sub>
