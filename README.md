@@ -50,5 +50,4 @@
 
 ## 🌐 Elsewhere
 
-- 🌐 Blog: [sonny-may.com](https://www.sonny-may.com/)
 - 💬 Ask me about: Python backends, FastAPI, building tools from real workflows
