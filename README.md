@@ -2,8 +2,7 @@
 
 💼 **Open to work** — actively seeking remote backend / full-stack Python roles. If you're hiring, [open an issue](https://github.com/sonnymay/sonnymay/issues)!
 
-Python/FastAPI backend dev | React fullstack | 9 yrs support engineering → building tools that actually work.
-
+Python/FastAPI backend dev | React fullstack | 9 years solving technical problems → building tools that actually work.
 ---
 
 ## 🚀 What I'm Working On
