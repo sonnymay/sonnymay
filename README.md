@@ -3,7 +3,7 @@
 🐍 **Backend Software Engineer — Python / FastAPI.** Nine years on the front line of tech support taught me exactly which tools break and why — now I build the backends that fix them.
 
 💼 **Open to work** — actively seeking remote backend / full-stack Python roles.
-📫 **Get in touch:** [sonny-may.com](https://www.sonny-may.com/)
+📫 **Get in touch:** sonnymaywi@gmail.com
 
 ---
 
