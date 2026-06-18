@@ -3,7 +3,7 @@
 🐍 **Backend Software Engineer — Python / FastAPI.** Nine years on the front line of tech support taught me exactly which tools break and why — now I build the backends that fix them.
 
 💼 **Open to work** — actively seeking remote backend / full-stack Python roles.
-📫 **Get in touch:**[sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
+📫 **Get in touch:** [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
 
 ---
 
@@ -26,6 +26,7 @@
 | **[ToDoMon](https://github.com/sonnymay/todomon)** | A to-do app disguised as a virtual pet game — shipped to the App Store | FastAPI · React · Capacitor |
 
 ---
+
 ## 🚀 What I'm Working On
 
 - 🗂️ **[SupportOps](https://github.com/sonnymay/supportops)** — lightweight ticketing + RMA workflow tool. FastAPI · React 19 · Supabase. [Live demo](https://supportops.vercel.app)
