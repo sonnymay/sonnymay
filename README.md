@@ -25,6 +25,15 @@
 | **[Product Tracking System](https://github.com/sonnymay/product-tracking-system)** | Inventory & RMA tracking web app | ASP.NET Core · EF Core · C# |
 | **[ToDoMon](https://github.com/sonnymay/todomon)** | A to-do app disguised as a virtual pet game — shipped to the App Store | FastAPI · React · Capacitor |
 
+<!-- profile-health:start -->
+## Portfolio Health
+
+- **Featured repos:** five public, unarchived repos on `main`: SupportOps, Dividend Tracker, Task Manager API, Product Tracking System, and ToDoMon.
+- **CI/deploy status:** latest `main` CI is passing for SupportOps, Dividend Tracker, Task Manager API, and Product Tracking System; ToDoMon's latest Pages deployment is passing.
+- **Live links:** SupportOps and Dividend Tracker have public demos; ToDoMon links to its App Store listing.
+- **Actionable cleanup:** SupportOps has duplicate open roadmap issues for CSV export, role-based auth, SLA timers, and full-text search; close or merge duplicates when polishing that repo.
+<!-- profile-health:end -->
+
 ---
 
 ## 🚀 What I'm Working On
