@@ -39,7 +39,7 @@
 | Project | Description | Stack | Demo |
 |---|---|---|---|
 | [SupportOps](https://github.com/sonnymay/supportops) | Ticketing + RMA portal with AI suggestions & full audit trail | FastAPI · React · Supabase · Claude | [Live](https://supportops.vercel.app) |
-| [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Portfolio dashboard with forward-yield, payout history & AI chat | FastAPI · yfinance · React | [Live](https://dividend-tracker-silk.vercel.app) |
+| [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Portfolio dashboard with forward-yield, payout history & AI chat | FastAPI · yfinance · React | [Live](https://dividend-tracker-pi-navy.vercel.app) |
 | [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Clean RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | — |
 | [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Cozy hidden-object game — 59 hand-painted scenes, 5 story cases, no fail state | TypeScript · Phaser 3 · Tauri | [Live](https://whimsy-hollow.vercel.app) |
 | [FocusMon](https://github.com/sonnymay/focusomon) | Focus timer × RPG mobile app — Pomodoro sessions earn XP to evolve your monster | React Native · Expo · Supabase | — |
