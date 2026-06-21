@@ -3,11 +3,12 @@
 <p align="center">
   <a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonnymay&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sonnymay&theme=default&hide_border=true" height="150" />
 </p>
 
 ---
@@ -54,20 +55,22 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 |---|---|---|---|
 | [SupportOps](https://github.com/sonnymay/supportops) | Ticketing + RMA portal with AI suggestions & full audit trail | FastAPI · React · Supabase · Claude | [▶ Demo](https://supportops.vercel.app) |
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Portfolio dashboard with forward-yield, payout history & AI chat | FastAPI · yfinance · React | [▶ Demo](https://dividend-tracker-pi-navy.vercel.app) |
-| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Production-quality RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | [▶ Docs](https://tasksmanagerapi.onrender.com/docs) |
-| [ToDoMon](https://github.com/sonnymay/todomon) | To-do app gamified as a virtual pet — shipped to the App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/app/id6776013029) |
+| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Production-quality RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | [▶ Swagger](https://tasksmanagerapi.onrender.com/docs) |
+| [ToDoMon](https://github.com/sonnymay/todomon) | To-do app gamified as a virtual pet — shipped to the App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/us/app/todomon/id6742779843) |
 | [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Cozy hidden-object game — 59 hand-painted scenes, 5 story cases, no fail state | TypeScript · Phaser 3 · Tauri | [▶ Demo](https://whimsy-hollow.vercel.app) |
 | [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask integration, live ETH/token balances | React · wagmi · viem · TypeScript | [▶ Demo](https://ethereum-wallet-cli.vercel.app) |
 | [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer — AI-generated art unlocked per session | React · TypeScript · Vite | — |
 
-<!-- profile-health:start -->
-## Portfolio Health
+---
 
-- **Checked repos:** SupportOps, Dividend Tracker, Task Manager API, Product Tracking System, and ToDoMon are public, unarchived, on `main`, and have `v1.0.0` releases.
-- **CI/deploy status:** SupportOps `main` CI is failing on pre-commit whitespace/EOF fixes; Dividend Tracker, Task Manager API, and Product Tracking System CI are passing; Product Tracking System and ToDoMon Pages deployments are passing.
-- **Live links:** SupportOps and Dividend Tracker list Vercel demos; Task Manager API lists Swagger docs; Product Tracking System has GitHub Pages; ToDoMon links to the App Store.
-- **Actionable cleanup:** fix SupportOps formatting in `CONTRIBUTING.md` and `.github/ISSUE_TEMPLATE/feature_request.md`, then close or merge duplicate SupportOps issues #3/#8, #4/#9, #5/#10, and #6/#11.
-<!-- profile-health:end -->
+## 💡 What I Bring
+
+**9 years in support engineering** means I've worked at the intersection of users, code, and production systems longer than most backend engineers. I know which API decisions cause 3am escalations, which data models make reporting impossible later, and how to build tooling that support teams will actually use.
+
+- **API design** — I've designed REST APIs that had to serve both power users and internal tooling. I care about consistent error shapes, versioning, and docs that don't lie.
+- **Shipping real products** — SupportOps, Dividend Tracker, ToDoMon (App Store), Whimsy Hollow — not tutorials, not clones.
+- **AI integration** — Wired Anthropic Claude into production workflows (SupportOps AI Suggester, Dividend Tracker portfolio chat). I know the failure modes.
+- **Cross-stack** — Python backend, React frontend, mobile (Capacitor + React Native), desktop (Tauri). I can own a feature end-to-end.
 
 ---
 
