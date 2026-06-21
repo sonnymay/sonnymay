@@ -1,11 +1,18 @@
-# Hi, I'm Sonny 👋
+# Hi, I'm Sonny May 👋
 
-**Backend Software Engineer** specializing in **Python / FastAPI** with 9 years of real-world support engineering experience — I know exactly what breaks in production and how to build systems that don't.
+<p align="center">
+  <a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
+</p>
 
-💼 **Open to work** — actively seeking remote backend / full-stack Python roles (remote-friendly)
-📫 **Get in touch:** [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com) · [SupportOps Live Demo](https://supportops.vercel.app)
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views)
+**Backend Software Engineer** with **9 years** of real-world support engineering experience — I know exactly what breaks in production and how to build systems that don't.
+
+I specialize in **Python / FastAPI** backends and have shipped multiple full-stack products end-to-end, including an iOS App Store app, browser-based games, and AI-powered workflow tools.
+
+💼 **Open to work** — actively seeking **remote backend / full-stack Python roles**
 
 ---
 
@@ -39,23 +46,23 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Demo |
+| Project | What it does | Stack | Live |
 |---|---|---|---|
-| [SupportOps](https://github.com/sonnymay/supportops) | Ticketing + RMA portal with AI suggestions & full audit trail | FastAPI · React · Supabase · Claude | [Live](https://supportops.vercel.app) |
-| [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Portfolio dashboard with forward-yield, payout history & AI chat | FastAPI · yfinance · React | [Live](https://dividend-tracker-pi-navy.vercel.app) |
-| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Clean RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | — |
-| [ToDoMon](https://github.com/sonnymay/todomon) | To-do app disguised as a virtual pet game — shipped to App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/us/app/todomon/id6742779843) |
-| [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Cozy hidden-object game — 59 hand-painted scenes, 5 story cases, no fail state | TypeScript · Phaser 3 · Tauri | [Live](https://whimsy-hollow.vercel.app) |
-| [FocusMon](https://github.com/sonnymay/focusomon) | Focus timer × RPG mobile app — Pomodoro sessions earn XP to evolve your monster | React Native · Expo · Supabase | — |
-| [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask, live ETH/token balances | React · wagmi · viem · TypeScript | [Live](https://ethereum-wallet-cli.vercel.app) |
-| [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer inspired by Solo Leveling — AI-generated art per session | React · TypeScript · Vite | — |
+| [SupportOps](https://github.com/sonnymay/supportops) | Ticketing + RMA portal with AI suggestions & full audit trail | FastAPI · React · Supabase · Claude | [▶ Demo](https://supportops.vercel.app) |
+| [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Portfolio dashboard with forward-yield, payout history & AI chat | FastAPI · yfinance · React | [▶ Demo](https://dividend-tracker-pi-navy.vercel.app) |
+| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Production-quality RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | — |
+| [ToDoMon](https://github.com/sonnymay/todomon) | To-do app gamified as a virtual pet — shipped to the App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/us/app/todomon/id6742779843) |
+| [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Cozy hidden-object game — 59 hand-painted scenes, 5 story cases, no fail state | TypeScript · Phaser 3 · Tauri | [▶ Demo](https://whimsy-hollow.vercel.app) |
+| [FocusMon](https://github.com/sonnymay/focusomon) | Pomodoro x RPG mobile app — earn XP and evolve your monster | React Native · Expo · Supabase | — |
+| [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask integration, live ETH/token balances | React · wagmi · viem · TypeScript | [▶ Demo](https://ethereum-wallet-cli.vercel.app) |
+| [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer — AI-generated art unlocked per session | React · TypeScript · Vite | — |
 
 ---
 
-## 🔭 What I'm Working On
+## 🔭 Currently Building
 
-- 🎫 [SupportOps](https://github.com/sonnymay/supportops) — lightweight ticketing + RMA workflow tool · FastAPI · React 19 · Supabase
-- 📈 [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) — dividend portfolio dashboard with forward-yield, payout history & AI portfolio chat
+- 🎫 **[SupportOps](https://github.com/sonnymay/supportops)** — lightweight ticketing + RMA workflow tool (FastAPI · React 19 · Supabase)
+- 📈 **[Dividend Tracker](https://github.com/sonnymay/dividend-tracker)** — dividend portfolio dashboard with AI chat advisor
 
 ---
 
@@ -68,4 +75,10 @@
 
 ---
 
-💬 **Ask me about:** Python backends, FastAPI, REST API design, Supabase, and shipping real products from support-engineering workflows.
+## 💬 Let's Talk
+
+I'm most useful to teams that need a backend engineer who understands the full picture — from customer-facing workflows to API design to deployment. 9 years in support engineering means I've seen the edge cases, the failures, and the fixes.
+
+📬 **Best way to reach me:** [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
+
+> *Python backends · FastAPI · REST API design · Supabase · shipping real products*
