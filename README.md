@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonnymay&theme=default&hide_border=true" height="150" />
+</p>
+
 ---
 
 **Backend Software Engineer** with **9 years** of real-world support engineering experience — I know exactly what breaks in production and how to build systems that don't.
@@ -50,10 +54,9 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 |---|---|---|---|
 | [SupportOps](https://github.com/sonnymay/supportops) | Ticketing + RMA portal with AI suggestions & full audit trail | FastAPI · React · Supabase · Claude | [▶ Demo](https://supportops.vercel.app) |
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Portfolio dashboard with forward-yield, payout history & AI chat | FastAPI · yfinance · React | [▶ Demo](https://dividend-tracker-pi-navy.vercel.app) |
-| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Production-quality RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | — |
+| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Production-quality RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | [▶ Docs](https://tasksmanagerapi.onrender.com/docs) |
 | [ToDoMon](https://github.com/sonnymay/todomon) | To-do app gamified as a virtual pet — shipped to the App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/us/app/todomon/id6742779843) |
 | [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Cozy hidden-object game — 59 hand-painted scenes, 5 story cases, no fail state | TypeScript · Phaser 3 · Tauri | [▶ Demo](https://whimsy-hollow.vercel.app) |
-| [FocusMon](https://github.com/sonnymay/focusomon) | Pomodoro x RPG mobile app — earn XP and evolve your monster | React Native · Expo · Supabase | — |
 | [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask integration, live ETH/token balances | React · wagmi · viem · TypeScript | [▶ Demo](https://ethereum-wallet-cli.vercel.app) |
 | [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer — AI-generated art unlocked per session | React · TypeScript · Vite | — |
 
@@ -69,8 +72,8 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6" height="160" />
 </p>
 
 ---
