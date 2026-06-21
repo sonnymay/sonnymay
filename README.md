@@ -59,7 +59,7 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 | [ToDoMon](https://github.com/sonnymay/todomon) | To-do app gamified as a virtual pet — shipped to the App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/us/app/todomon/id6742779843) |
 | [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Cozy hidden-object game — 59 hand-painted scenes, 5 story cases, no fail state | TypeScript · Phaser 3 · Tauri | [▶ Demo](https://whimsy-hollow.vercel.app) |
 | [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask integration, live ETH/token balances | React · wagmi · viem · TypeScript | [▶ Demo](https://ethereum-wallet-cli.vercel.app) |
-| [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer — AI-generated art unlocked per session | React · TypeScript · Vite | — |
+| [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer — AI-generated art unlocked per session | React · TypeScript · Vite | [src](https://github.com/sonnymay/shadow-focus-quest) |
 
 ---
 
@@ -84,8 +84,8 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6&cache_seconds=86400" height="160" />
 </p>
 
 ---
