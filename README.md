@@ -60,6 +60,15 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 | [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask integration, live ETH/token balances | React · wagmi · viem · TypeScript | [▶ Demo](https://ethereum-wallet-cli.vercel.app) |
 | [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer — AI-generated art unlocked per session | React · TypeScript · Vite | — |
 
+<!-- profile-health:start -->
+## Portfolio Health
+
+- **Checked repos:** SupportOps, Dividend Tracker, Task Manager API, Product Tracking System, and ToDoMon are public, unarchived, on `main`, and have `v1.0.0` releases.
+- **CI/deploy status:** SupportOps `main` CI is failing on pre-commit whitespace/EOF fixes; Dividend Tracker, Task Manager API, and Product Tracking System CI are passing; Product Tracking System and ToDoMon Pages deployments are passing.
+- **Live links:** SupportOps and Dividend Tracker list Vercel demos; Task Manager API lists Swagger docs; Product Tracking System has GitHub Pages; ToDoMon links to the App Store.
+- **Actionable cleanup:** fix SupportOps formatting in `CONTRIBUTING.md` and `.github/ISSUE_TEMPLATE/feature_request.md`, then close or merge duplicate SupportOps issues #3/#8, #4/#9, #5/#10, and #6/#11.
+<!-- profile-health:end -->
+
 ---
 
 ## 🔭 Currently Building
