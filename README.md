@@ -71,8 +71,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sonnymay&theme=default&hide_border=true)
-
 ---
 
 💬 **Ask me about:** Python backends, FastAPI, designing REST APIs, and building tools from real-world workflows.
