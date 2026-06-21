@@ -2,8 +2,8 @@
 
 **Backend Software Engineer** specializing in **Python / FastAPI** with 9 years of real-world support engineering experience — I know exactly what breaks in production and how to build systems that don't.
 
-💼 **Open to work** — actively seeking remote backend / full-stack Python roles
-📫 **Get in touch:** [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com) · [SupportOps Live Demo](https://supportops.vercel.app)
+💼 **Open to work** — actively seeking remote backend / full-stack Python roles (remote-friendly)
+📫 **Get in touch:** [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonnymay) · [SupportOps Live Demo](https://supportops.vercel.app)
 
 ---
 
@@ -17,6 +17,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Frontend**
 
@@ -47,30 +48,22 @@
 | [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask, live ETH/token balances | React · wagmi · viem · TypeScript | [Live](https://ethereum-wallet-cli.vercel.app) |
 | [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer inspired by Solo Leveling — AI-generated art per session | React · TypeScript · Vite | — |
 
-<!-- profile-health:start -->
-## Portfolio Health
-
-- **Daily-checked repos:** SupportOps, Dividend Tracker, Task Manager API, Product Tracking System, and ToDoMon are public, unarchived, on `main`, and have `v1.0.0` releases.
-- **CI/deploy status:** latest `main` CI is failing for SupportOps; Dividend Tracker, Task Manager API, and Product Tracking System are passing; ToDoMon's latest Pages deployment is passing.
-- **Live links:** SupportOps and Dividend Tracker list Vercel demos; ToDoMon links to its App Store page.
-- **Actionable cleanup:** fix the SupportOps CI failure from `docs: add contributing guide`, then close or merge duplicate SupportOps issues #3/#8, #4/#9, #5/#10, and #6/#11.
-<!-- profile-health:end -->
-
 ---
 
 ## 🔭 What I'm Working On
 
 - 🎫 [SupportOps](https://github.com/sonnymay/supportops) — lightweight ticketing + RMA workflow tool · FastAPI · React 19 · Supabase
-  - 📈 [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) — dividend portfolio dashboard with forward-yield, payout history & AI portfolio chat
+- 📈 [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) — dividend portfolio dashboard with forward-yield, payout history & AI portfolio chat
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=8" height="160" />
+</p>
 
 ---
 
-💬 **Ask me about:** Python backends, FastAPI, designing REST APIs, and building tools from real-world workflows.
+💬 **Ask me about:** Python backends, FastAPI, REST API design, Supabase, and shipping real products from support-engineering workflows.
