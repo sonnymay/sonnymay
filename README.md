@@ -3,7 +3,9 @@
 **Backend Software Engineer** specializing in **Python / FastAPI** with 9 years of real-world support engineering experience — I know exactly what breaks in production and how to build systems that don't.
 
 💼 **Open to work** — actively seeking remote backend / full-stack Python roles (remote-friendly)
-📫 **Get in touch:** [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonnymay) · [SupportOps Live Demo](https://supportops.vercel.app)
+📫 **Get in touch:** [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com) · [SupportOps Live Demo](https://supportops.vercel.app)
+
+![Profile views](https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views)
 
 ---
 
@@ -42,9 +44,9 @@
 | [SupportOps](https://github.com/sonnymay/supportops) | Ticketing + RMA portal with AI suggestions & full audit trail | FastAPI · React · Supabase · Claude | [Live](https://supportops.vercel.app) |
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Portfolio dashboard with forward-yield, payout history & AI chat | FastAPI · yfinance · React | [Live](https://dividend-tracker-pi-navy.vercel.app) |
 | [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Clean RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | — |
+| [ToDoMon](https://github.com/sonnymay/todomon) | To-do app disguised as a virtual pet game — shipped to App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/us/app/todomon/id6742779843) |
 | [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Cozy hidden-object game — 59 hand-painted scenes, 5 story cases, no fail state | TypeScript · Phaser 3 · Tauri | [Live](https://whimsy-hollow.vercel.app) |
 | [FocusMon](https://github.com/sonnymay/focusomon) | Focus timer × RPG mobile app — Pomodoro sessions earn XP to evolve your monster | React Native · Expo · Supabase | — |
-| [ToDoMon](https://github.com/sonnymay/todomon) | To-do app disguised as a virtual pet game — shipped to App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/us/app/todomon/id6742779843) |
 | [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask, live ETH/token balances | React · wagmi · viem · TypeScript | [Live](https://ethereum-wallet-cli.vercel.app) |
 | [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer inspired by Solo Leveling — AI-generated art per session | React · TypeScript · Vite | — |
 
