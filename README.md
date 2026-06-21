@@ -47,6 +47,15 @@
 | [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask, live ETH/token balances | React · wagmi · viem · TypeScript | [Live](https://ethereum-wallet-cli.vercel.app) |
 | [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer inspired by Solo Leveling — AI-generated art per session | React · TypeScript · Vite | — |
 
+<!-- profile-health:start -->
+## Portfolio Health
+
+- **Daily-checked repos:** SupportOps, Dividend Tracker, Task Manager API, Product Tracking System, and ToDoMon are public, unarchived, on `main`, and have `v1.0.0` releases.
+- **CI/deploy status:** latest `main` CI is failing for SupportOps; Dividend Tracker, Task Manager API, and Product Tracking System are passing; ToDoMon's latest Pages deployment is passing.
+- **Live links:** SupportOps and Dividend Tracker list Vercel demos; ToDoMon links to its App Store page.
+- **Actionable cleanup:** fix the SupportOps CI failure from `docs: add contributing guide`, then close or merge duplicate SupportOps issues #3/#8, #4/#9, #5/#10, and #6/#11.
+<!-- profile-health:end -->
+
 ---
 
 ## 🔭 What I'm Working On
