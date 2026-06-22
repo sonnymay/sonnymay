@@ -1,16 +1,16 @@
 # Hi, I'm Sonny May 👋
 
 <p align="center">
-<a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>a>
-<a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>a>
-<a href="https://www.linkedin.com/in/sonnymay"><img src="https://img.shields.io/badge/LinkedIn-sonnymay-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>a>
+<a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sonnymay"><img src="https://img.shields.io/badge/LinkedIn-sonnymay-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
-</p>p>
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sonnymay&theme=default&hide_border=true" height="150" />
-</p>p>
+</p>
 
 ---
 
@@ -75,34 +75,34 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 **9 years in support engineering** means I've worked at the intersection of users, code, and production systems longer than most backend engineers. I know which API decisions cause 3am escalations, which data models make reporting impossible later, and how to build tooling that support teams will actually use.
 
 - **API design** — I've designed REST APIs that had to serve both power users and internal tooling. I care about consistent error shapes, versioning, and docs that don't lie.
-- - **Shipping real products** — SupportOps, Dividend Tracker, ToDoMon (App Store), Whimsy Hollow — not tutorials, not clones.
-  - - **AI integration** — Wired Anthropic Claude into production workflows (SupportOps AI Suggester, Dividend Tracker portfolio chat). I know the failure modes.
-    - - **Cross-stack** — Python backend, React frontend, mobile (Capacitor + React Native), desktop (Tauri). I can own a feature end-to-end.
-     
-      - ---
+- **Shipping real products** — SupportOps, Dividend Tracker, ToDoMon (App Store), Whimsy Hollow — not tutorials, not clones.
+- **AI integration** — Wired Anthropic Claude into production workflows (SupportOps AI Suggester, Dividend Tracker portfolio chat). I know the failure modes.
+- **Cross-stack** — Python backend, React frontend, mobile (Capacitor + React Native), desktop (Tauri). I can own a feature end-to-end.
 
-      ## 🔭 Currently Building
+---
 
-      - 🎫 **[SupportOps](https://github.com/sonnymay/supportops)** — adding role-based auth, SLA timers, and CSV export
-      - - 📈 **[Dividend Tracker](https://github.com/sonnymay/dividend-tracker)** — DRIP simulation and dividend growth rate (CAGR) views
-       
-        - ---
+## 🔭 Currently Building
 
-        ## 📊 GitHub Stats
+- 🎫 **[SupportOps](https://github.com/sonnymay/supportops)** — adding role-based auth, SLA timers, and CSV export
+- 📈 **[Dividend Tracker](https://github.com/sonnymay/dividend-tracker)** — DRIP simulation and dividend growth rate (CAGR) views
 
-        <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="160" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6&cache_seconds=86400" height="160" />
-        </p>p>
+---
 
-        <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonnymay&theme=minimal&hide_border=true&area=true" />
-        </p>p>
+## 📊 GitHub Stats
 
-        ---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6&cache_seconds=86400" height="160" />
+</p>
 
-        ## 💬 Get in Touch
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonnymay&theme=minimal&hide_border=true&area=true" />
+</p>
 
-        📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
+---
 
-        > *Python · FastAPI · REST API design · Supabase · PostgreSQL · React · React Native · shipping real products*
+## 💬 Get in Touch
+
+📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
+
+> *Python · FastAPI · REST API design · Supabase · PostgreSQL · React · React Native · shipping real products*
