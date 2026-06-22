@@ -3,7 +3,6 @@
 <p align="center">
 <a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sonnymay"><img src="https://img.shields.io/badge/LinkedIn-sonnymay-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
 </p>
@@ -117,6 +116,6 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 
 ## 💬 Get in Touch
 
-📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonnymay)
+📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
 
 > *Python · FastAPI · REST API design · Supabase · PostgreSQL · React · React Native · shipping real products*
