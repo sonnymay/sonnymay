@@ -1,14 +1,14 @@
 # Hi, I'm Sonny May 👋
 
 <p align="center">
-  <a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
+<a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sonnymay&theme=default&hide_border=true" height="150" />
+<img src="https://streak-stats.demolab.com/?user=sonnymay&theme=default&hide_border=true" height="150" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 I specialize in **Python / FastAPI** backends and have shipped multiple full-stack products end-to-end, including an iOS App Store app, browser-based games, and AI-powered workflow tools.
 
-💼 **Open to work** — actively seeking **remote backend / full-stack Python roles**
+💼 **Open to work** — actively seeking **remote backend / full-stack Python roles** · Madison, WI (remote OK)
 
 ---
 
@@ -31,7 +31,6 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Frontend**
 
@@ -84,12 +83,12 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6&cache_seconds=86400" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6&cache_seconds=86400" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonnymay&theme=minimal&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonnymay&theme=minimal&hide_border=true&area=true" />
 </p>
 
 ---
