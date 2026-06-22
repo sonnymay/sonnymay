@@ -3,12 +3,13 @@
 <p align="center">
 <a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sonnymay"><img src="https://img.shields.io/badge/LinkedIn-sonnymay-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sonnymay&theme=default&hide_border=true" height="150" />
+<img src="https://streak-stats.demolab.com/?user=sonnymay&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
 </p>
 
 ---
@@ -74,8 +75,9 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 |---|---|---|
 | [SupportOps](https://github.com/sonnymay/supportops) | Public, active, CI passing; roadmap issues open for auth, SLA, CSV export, and email intake | [Demo](https://supportops.vercel.app) |
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Public, active, CI passing; roadmap issues open for DRIP, dividend CAGR, and allocation charts | [Demo](https://dividend-tracker-pi-navy.vercel.app) |
-| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI project, CI passing, no open issues | [Swagger](https://tasksmanagerapi.onrender.com/docs) |
-| [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Public C# inventory/RMA app, CI passing, no open issues | Source |
+| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI project, CI passing; roadmap issues open for JWT auth, pagination, and due dates | [Swagger](https://tasksmanagerapi.onrender.com/docs) |
+| [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Public TypeScript game, roadmap issues open for share card, gamepad support, and cloud save | [Demo](https://whimsy-hollow.vercel.app) |
+| [FocusMon](https://github.com/sonnymay/focusomon) | Public React Native app, roadmap issues open for push notifications, stats screen, and share card | [src](https://github.com/sonnymay/focusomon) |
 | [ToDoMon](https://github.com/sonnymay/todomon) | Public TypeScript app, GitHub Pages deploy passing, no open issues | [App Store](https://apps.apple.com/app/id6776013029) |
 
 <!-- profile-health:end -->
@@ -115,6 +117,6 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 
 ## 💬 Get in Touch
 
-📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
+📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonnymay)
 
 > *Python · FastAPI · REST API design · Supabase · PostgreSQL · React · React Native · shipping real products*
