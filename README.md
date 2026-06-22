@@ -67,6 +67,19 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 | [Ethereum Wallet Dashboard](https://github.com/sonnymay/ethereum-wallet-cli) | Web3 wallet dashboard — MetaMask integration, live ETH/token balances | React · wagmi · viem · TypeScript | [▶ Demo](https://ethereum-wallet-cli.vercel.app) |
 | [Shadow Focus Quest](https://github.com/sonnymay/shadow-focus-quest) | Gamified Pomodoro timer — AI-generated art unlocked per session | React · TypeScript · Vite | [src](https://github.com/sonnymay/shadow-focus-quest) |
 
+<!-- profile-health:start -->
+## Portfolio Health
+
+| Repo | Current public signal | Live link |
+|---|---|---|
+| [SupportOps](https://github.com/sonnymay/supportops) | Public, active, CI passing; roadmap issues open for auth, SLA, CSV export, and email intake | [Demo](https://supportops.vercel.app) |
+| [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Public, active, CI passing; roadmap issues open for DRIP, dividend CAGR, and allocation charts | [Demo](https://dividend-tracker-pi-navy.vercel.app) |
+| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI project, CI passing, no open issues | [Swagger](https://tasksmanagerapi.onrender.com/docs) |
+| [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Public C# inventory/RMA app, CI passing, no open issues | Source |
+| [ToDoMon](https://github.com/sonnymay/todomon) | Public TypeScript app, GitHub Pages deploy passing, no open issues | [App Store](https://apps.apple.com/app/id6776013029) |
+
+<!-- profile-health:end -->
+
 ---
 
 ## 💡 What I Bring
