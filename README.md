@@ -93,10 +93,8 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 
 ---
 
-## 💬 Let's Talk
+## 💬 Get in Touch
 
-I'm most useful to teams that need a backend engineer who understands the full picture — from customer-facing workflows to API design to deployment. 9 years in support engineering means I've seen the edge cases, the failures, and the fixes.
+📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
 
-📬 **Best way to reach me:** [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
-
-> *Python backends · FastAPI · REST API design · Supabase · shipping real products*
+> *Python · FastAPI · REST API design · Supabase · PostgreSQL · React · shipping real products*
