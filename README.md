@@ -74,7 +74,7 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 |---|---|---|
 | [SupportOps](https://github.com/sonnymay/supportops) | Public, active, CI passing; roadmap issues open for auth, SLA, CSV export, and email intake | [Demo](https://supportops.vercel.app) |
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Public, active, CI passing; roadmap issues open for DRIP, dividend CAGR, and allocation charts | [Demo](https://dividend-tracker-pi-navy.vercel.app) |
-| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI project, CI passing; roadmap issues open for JWT auth, pagination, and due dates | [Swagger](https://tasksmanagerapi.onrender.com/docs) |
+| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI project; latest CI failing on pytest collection indentation; roadmap issues open for JWT auth, pagination, and due dates | [Swagger](https://tasksmanagerapi.onrender.com/docs) |
 | [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Public C# inventory/RMA app, CI passing, no open issues | Source |
 | [Whimsy Hollow](https://github.com/sonnymay/whimsy-hollow) | Public TypeScript game, roadmap issues open for share card, gamepad support, and cloud save | [Demo](https://whimsy-hollow.vercel.app) |
 | [FocusMon](https://github.com/sonnymay/focusomon) | Public React Native app, roadmap issues open for push notifications, stats screen, and share card | [src](https://github.com/sonnymay/focusomon) |
