@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="mailto:sonnymaywi@gmail.com"><img src="https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sonnymay"><img src="https://img.shields.io/badge/LinkedIn-sonnymay-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://supportops.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views" />
@@ -63,19 +64,6 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 | [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Production-quality RESTful CRUD API with auto-generated Swagger docs | FastAPI · SQLAlchemy · PostgreSQL | [▶ Swagger](https://tasksmanagerapi.onrender.com/docs) |
 | [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Inventory and RMA tracking web app for internal operations | ASP.NET Core · EF Core · SQLite | [src](https://github.com/sonnymay/product-tracking-system) |
 | [ToDoMon](https://github.com/sonnymay/todomon) | To-do app gamified as a virtual pet — shipped to the App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/app/id6776013029) |
-
-<!-- profile-health:start -->
-## Portfolio Health
-
-| Repo | Current public signal | Live link |
-|---|---|---|
-| [SupportOps](https://github.com/sonnymay/supportops) | Public, active; latest CI failing because `ruff format --check` would reformat `main.py` and `test_main.py`; roadmap issues open for auth, SLA, CSV export, and email intake | [Demo](https://supportops.vercel.app) |
-| [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Public, active; latest CI passing; roadmap issues open for DRIP simulation, dividend CAGR, and sector/geography charts | [Demo](https://dividend-tracker-pi-navy.vercel.app) |
-| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI project; latest CI passing; roadmap issues open for JWT auth, pagination/filtering, and due date/priority fields | [Swagger](https://tasksmanagerapi.onrender.com/docs) |
-| [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Public C# inventory/RMA app; latest CI and Pages deploy passing; no open issues | Source |
-| [ToDoMon](https://github.com/sonnymay/todomon) | Public TypeScript app; latest GitHub Pages deploy passing; no open issues | [App Store](https://apps.apple.com/app/id6776013029) |
-
-<!-- profile-health:end -->
 
 ---
 
