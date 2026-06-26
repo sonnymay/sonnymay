@@ -111,6 +111,7 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6&cache_seconds=86400" height="160" />
+  
 </p>
 
 <p align="center">
