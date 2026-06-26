@@ -64,6 +64,19 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 | [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Inventory and RMA tracking web app for internal operations | ASP.NET Core · EF Core · SQLite | [src](https://github.com/sonnymay/product-tracking-system) |
 | [ToDoMon](https://github.com/sonnymay/todomon) | To-do app gamified as a virtual pet — shipped to the App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/app/id6776013029) |
 
+<!-- profile-health:start -->
+## Portfolio Health
+
+| Repo | Current public signal | Live link |
+|---|---|---|
+| [SupportOps](https://github.com/sonnymay/supportops) | Public FastAPI/React/Supabase app; latest CI passing; open roadmap issues for email intake, role-based auth, CSV export, SLA alerts, full-text search, and demo data | [Demo](https://supportops.vercel.app) |
+| [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Public FastAPI/React portfolio app; latest CI passing; open roadmap issues for sector/geography charts, dividend CAGR, and DRIP simulation | [Demo](https://dividend-tracker-pi-navy.vercel.app) |
+| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI CRUD API; latest CI passing; open roadmap issues for due date/priority fields, pagination/filtering, and JWT auth | [Swagger](https://tasksmanagerapi.onrender.com/docs) |
+| [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Public ASP.NET Core inventory/RMA app; latest CI and Pages deploy passing; no open issues | Source |
+| [ToDoMon](https://github.com/sonnymay/todomon) | Public TypeScript/Capacitor app; latest GitHub Pages deploy passing; no open issues | [App Store](https://apps.apple.com/app/id6776013029) |
+
+<!-- profile-health:end -->
+
 ---
 
 ## 💡 What I Bring
