@@ -71,7 +71,7 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 |---|---|---|
 | [SupportOps](https://github.com/sonnymay/supportops) | Public FastAPI/React/Supabase app; latest CI passing; open roadmap issues for email intake, role-based auth, CSV export, SLA alerts, full-text search, and demo data | [Demo](https://supportops.vercel.app) |
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Public FastAPI/React portfolio app; latest CI passing; open roadmap issues for sector/geography charts, dividend CAGR, and DRIP simulation | [Demo](https://dividend-tracker-pi-navy.vercel.app) |
-| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI CRUD API; latest CI passing; no live Swagger URL is listed yet; open roadmap issues for JWT auth, pagination/filtering, and task due dates/priority | Source |
+| [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI CRUD API; latest CI failing on main; no live Swagger URL is listed yet; open roadmap issues for JWT auth, pagination/filtering, and task due dates/priority | Source |
 | [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Public ASP.NET Core inventory/RMA app; latest CI and Pages deploy passing; no open issues | Source |
 | [ToDoMon](https://github.com/sonnymay/todomon) | Public TypeScript/Capacitor app; latest GitHub Pages deploy passing; no open issues | [App Store](https://apps.apple.com/app/id6776013029) |
 
