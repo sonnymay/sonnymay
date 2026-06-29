@@ -1,8 +1,6 @@
 # Hi, I'm Sonny May 👋
 
-[![Email](https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sonnymaywi@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://supportops.vercel.app) ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=sonnymay&color=0e75b6&style=flat-square&label=Profile+views)
-
-![Streak](https://streak-stats.demolab.com/?user=sonnymay&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![Email](https://img.shields.io/badge/Email-sonnymaywi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sonnymaywi@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-SupportOps%20Live-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://supportops.vercel.app) ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
 
 ---
 
@@ -82,31 +80,31 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 **9 years in support engineering** means I've worked at the intersection of users, code, and production systems longer than most backend engineers. I know which API decisions cause 3am escalations, which data models make reporting impossible later, and how to build tooling that support teams will actually use.
 
 - **API design** — I've designed REST APIs that had to serve both power users and internal tooling. I care about consistent error shapes, versioning, and docs that don't lie.
-- - **Shipping real products** — SupportOps, Dividend Tracker, Daily Levels (App Store), ToDoMon (App Store), Whimsy Hollow, Grasslands Online — not tutorials, not clones.
-  - - **AI integration** — Wired Anthropic Claude into production workflows (SupportOps AI Suggester, Dividend Tracker portfolio chat). I know the failure modes.
-    - - **Cross-stack** — Python backend, React frontend, Swift/SwiftUI iOS, mobile (Capacitor + React Native), desktop (Tauri). I can own a feature end-to-end.
-     
-      - ---
+- **Shipping real products** — SupportOps, Dividend Tracker, Daily Levels (App Store), ToDoMon (App Store), Whimsy Hollow, Grasslands Online — not tutorials, not clones.
+- **AI integration** — Wired Anthropic Claude into production workflows (SupportOps AI Suggester, Dividend Tracker portfolio chat). I know the failure modes.
+- **Cross-stack** — Python backend, React frontend, Swift/SwiftUI iOS, mobile (Capacitor + React Native), desktop (Tauri). I can own a feature end-to-end.
 
-      ## 🔭 Currently Building
+---
 
-      - 🎫 **[SupportOps](https://github.com/sonnymay/supportops)** — adding role-based auth, SLA timers, and CSV export
-      - - 📈 **[Dividend Tracker](https://github.com/sonnymay/dividend-tracker)** — DRIP simulation and dividend growth rate (CAGR) views
-        - - 📱 **[Daily Levels](https://github.com/sonnymay/daily-levels)** — expanding the hero class system and adding social leaderboards
-         
-          - ---
+## 🔭 Currently Building
 
-          ## 💬 Get in Touch
+- 🎫 **[SupportOps](https://github.com/sonnymay/supportops)** — adding role-based auth, SLA timers, and CSV export
+- 📈 **[Dividend Tracker](https://github.com/sonnymay/dividend-tracker)** — DRIP simulation and dividend growth rate (CAGR) views
+- 📱 **[Daily Levels](https://github.com/sonnymay/daily-levels)** — expanding the hero class system and adding social leaderboards
 
-          📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
+---
 
-          *Python · FastAPI · REST API design · Supabase · PostgreSQL · React · React Native · Swift · SwiftUI · shipping real products*
+## 💬 Get in Touch
 
-          ---
+📬 [sonnymaywi@gmail.com](mailto:sonnymaywi@gmail.com)
 
-          ## 📊 GitHub Stats
+*Python · FastAPI · REST API design · Supabase · PostgreSQL · React · React Native · Swift · SwiftUI · shipping real products*
 
-          ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
-          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6&cache_seconds=86400)
+---
 
-          ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonnymay&theme=minimal&hide_border=true&area=true)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonnymay&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymay&layout=compact&hide_border=true&hide=html,css,scss&langs_count=6&cache_seconds=86400)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonnymay&theme=minimal&hide_border=true&area=true)
