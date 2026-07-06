@@ -53,7 +53,7 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 |---|---|---|---|
 | [SupportOps](https://github.com/sonnymay/supportops) | Ticketing + RMA portal with AI suggestions & full audit trail | FastAPI · React · Supabase · Claude | [▶ Demo](https://supportops.vercel.app) |
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Portfolio dashboard with forward-yield, payout history & AI chat | FastAPI · yfinance · React | [▶ Demo](https://dividend-tracker-pi-navy.vercel.app) |
-| [Daily Levels](https://github.com/sonnymay/daily-levels) | iOS app that turns daily habits into an RPG leveling system — 10 hero classes, live on App Store | Swift · SwiftUI · StoreKit 2 | [App Store](https://apps.apple.com/app/daily-levels/id6745300143) |
+| [Daily Levels](https://github.com/sonnymay/daily-levels) | iOS app that turns daily habits into an RPG leveling system — 10 hero classes, live on App Store | Swift · SwiftUI · StoreKit 2 | App Store (link unavailable) |
 | [Grasslands Online](https://github.com/sonnymay/grasslands-online) | Browser-based idle/strategy RPG — build settlements, battle monsters, level up heroes | JavaScript · Phaser · Vercel | [▶ Play](https://grasslands-online.vercel.app) |
 | [ToDoMon](https://github.com/sonnymay/todomon) | To-do app gamified as a virtual pet — shipped to the App Store | React · TypeScript · Capacitor | [App Store](https://apps.apple.com/app/id6776013029) |
 | [FocusMon](https://github.com/sonnymay/focusomon) | Focus-timer x RPG mobile app — Pomodoro sessions earn XP and evolve your monster | React Native · Expo · Supabase | [src](https://github.com/sonnymay/focusomon) |
