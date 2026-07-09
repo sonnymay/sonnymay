@@ -104,4 +104,4 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 
 ## 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonnymay&theme=minimal&hide_border=true&area=true)
+![Activity Graph](https://ghchart.rshah.org/6c5ce7/sonnymay)
