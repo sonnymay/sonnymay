@@ -65,7 +65,7 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 
 | Repo | Current public signal | Live link |
 |---|---|---|
-| [SupportOps](https://github.com/sonnymay/supportops) | Public FastAPI/React/Supabase app; latest CI passing; open roadmap issues for email intake, role-based auth, CSV export, SLA alerts, full-text search, and demo data | [Demo](https://supportops.vercel.app) |
+| [SupportOps](https://github.com/sonnymay/supportops) | Public FastAPI/React/Supabase app; latest CI passing; search API is shipped, with open issue #8 tracking the remaining index/UI work; other roadmap issues cover email intake, role-based auth, CSV export, SLA alerts, and demo data | [Demo](https://supportops.vercel.app) |
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Public FastAPI/React portfolio app; latest CI passing; open roadmap issues for sector/geography charts, dividend CAGR, and DRIP simulation | [Demo](https://dividend-tracker-pi-navy.vercel.app) |
 | [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI CRUD API with PATCH partial updates; latest CI passing on main; no live Swagger URL is listed yet; open roadmap issues for JWT auth, pagination/filtering, and task due dates/priority | [Source](https://github.com/sonnymay/TasksManagerAPI) |
 | [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Public ASP.NET Core inventory/RMA app; latest CI and Pages deploy passing; no open issues | [Source](https://github.com/sonnymay/product-tracking-system) |
