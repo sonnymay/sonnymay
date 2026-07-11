@@ -12,6 +12,8 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 
 ---
 
+_Last updated: July 11, 2026_
+
 ## 🛠️ Tech Stack
 
 **Backend**
