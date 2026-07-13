@@ -69,7 +69,7 @@ I specialize in **Python / FastAPI** backends and have shipped multiple full-sta
 | [Dividend Tracker](https://github.com/sonnymay/dividend-tracker) | Public FastAPI/React portfolio app; latest CI passing; open roadmap issues for sector/geography charts, dividend CAGR, and DRIP simulation | [Demo](https://dividend-tracker-pi-navy.vercel.app) |
 | [Task Manager API](https://github.com/sonnymay/TasksManagerAPI) | Public FastAPI CRUD API with PATCH, pagination/filtering, and due-date/priority support; latest CI passing on main; no live Swagger URL is listed yet; JWT auth remains planned, and open issues #2/#3 retain unchecked acceptance criteria for the shipped features | [Source](https://github.com/sonnymay/TasksManagerAPI) |
 | [Product Tracking System](https://github.com/sonnymay/product-tracking-system) | Public ASP.NET Core inventory/RMA app; latest CI and Pages deploy passing; no open issues | [Source](https://github.com/sonnymay/product-tracking-system) |
-| [ToDoMon](https://github.com/sonnymay/todomon) | Public TypeScript/Capacitor app; latest GitHub Pages deploy passing; no open issues | [App Store](https://apps.apple.com/app/id6776013029) |
+| [ToDoMon](https://github.com/sonnymay/todomon) | Public TypeScript/Capacitor App Store app; daily repeating tasks and optional due-time notifications shipped; latest GitHub Pages deploy passing; no open issues; repository README needs Markdown cleanup and a feature refresh | [App Store](https://apps.apple.com/app/id6776013029) |
 
 <!-- profile-health:end -->
 
